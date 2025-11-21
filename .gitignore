@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+client/node_modules
+server/node_modules
+
+# builds
+client/dist
+server/dist
+
+# env & data
+*.env
+client/.env
+server/.env
+data/
+
+# misc
+.DS_Store
+Thumbs.db
+
